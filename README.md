@@ -1,5 +1,14 @@
 # 💫 About Me:
-General Information<br><br>Full Name: Jaber Kohistani (jaberkohistani.com<br>)<br><br>Education: Bachelor’s degree in Computer Science (B.Sc.)<br><br>Profession: Web Developer and UI/UX Designer (jaberkohistani.com<br>)<br><br>Location: Based in Italy (an Afghan entrepreneur living in Italy)<br><br>Business / Projects: Founder of Usitea, a company that provides digital solutions (jaberkohistani.com<br>)<br><br>Other Activities: Works on coding, web development, and user interface/user experience design (LinkedIn<br>)
+
+👋 Hi, I'm Jaber Kohistani
+I’m a Web Developer and UI/UX Designer originally from Afghanistan, currently based in Italy.
+With a B.Sc. in Computer Science, I’m passionate about building modern, user-friendly, and impactful digital experiences.
+
+## 💼 What I Do
+🔹 Founder of Usitea – a digital solutions company
+🔹 Designing and developing web applications with a strong focus on usability
+🔹 Crafting intuitive UI/UX designs that bring ideas to life
+
 
 
 ## 🌐 Socials:
